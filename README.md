@@ -1,6 +1,6 @@
 # Python for Excel
 A Modern Environment for Automation and Data Analysis  
-First Edition
+First Edition  
 (Book by Felix Zumstein from O'Reilly)
 
 TODO:
